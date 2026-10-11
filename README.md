@@ -36,8 +36,7 @@ O que fiz:
 
 1. Abra [`clusterizacao_logistica.ipynb`](./clusterizacao_logistica.ipynb) no VS Code ou Jupyter.
 2. O notebook instala as dependências na primeira célula de código.
-3. Na leitura do CSV, use o nome publicado neste repositório: `geolocalizacao_dataset.csv` (o notebook ainda referencia o nome original do arquivo fornecido na atividade).
-4. Execute as células em sequência. Os gráficos Plotly e os resumos são gerados no próprio notebook.
+3. Execute as células em sequência. Os gráficos Plotly e os resumos são gerados no próprio notebook.
 
 ## Limitações
 
